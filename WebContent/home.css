@@ -1,0 +1,139 @@
+@CHARSET "UTF-8";
+
+body {background-color: #413539;}
+
+.header {position: fixed;
+		height:40px;
+		width: 100%;
+		background-color: #202123;
+		padding: 10px 20px 10px 10px;
+		margin: -20px -20px 0px -20px;}
+
+.header a {float: right;
+			color: white;
+			text-decoration: none;
+			font-size: 1.3em;
+			margin: 10px 20px 0px 40px;}
+			
+.blackOnWhite {height: 20px;
+				width: 20px;}
+					
+.whiteOnBlack {height: 20px;
+				width: 20px;}	
+
+.leftBar {position: absolute;
+		margin: 400px 0px 0px 150px;}
+		
+.rightBar {position: absolute;
+		margin: 130px 0px 0px 650px;}
+
+.profilePhoto {height:250px;
+				width:200px;
+				opacity: .3;
+				float: left;}
+				
+.left-firstRowSecondColumn {height:250px;
+						width:200px;
+						background-color: #FFFFFF;
+						float: left;}	
+						
+.left-secondRowFirstColumn {height:250px;
+						width:200px;
+						background-color: white;
+						clear: both;
+						float:left;
+						font-weight:bold;
+						font-size: 2.5em;
+						text-align: center;
+						color: black;
+						letter-spacing: 1px;}
+						
+.left-secondRowSecondColumn {height:230px;
+						width:180px;
+						background-color: black;
+						float:left;
+						color: white;
+						padding: 10px 10px 10px 10px;}
+						
+.left-thirdRowFirstColumn {height:250px;
+						width:200px;
+						background-color: black;
+						clear: both;
+						float:left;
+						font-weight:bold;
+						font-size: 2.5em;
+						text-align: center;
+						color: white;
+						letter-spacing: 1px;}
+						
+.left-thirdRowSecondColumn {height:230px;
+						width:180px;
+						background-color: white;
+						float:left;
+						padding: 10px 10px 10px 10px;}
+
+.right-thirdRowSecondColumn {height:230px;
+						width:180px;
+						float: left;}
+						
+.right-firstRowFirstColumn {height:250px;
+						width:200px;
+						background-color: black;
+						float:left;
+						font-weight:bold;
+						font-size: 2.5em;
+						text-align: center;
+						color: white;
+						letter-spacing: 1px;}
+						
+#passion, #favoriteQuote {text-align: left;
+							margin: 0px 0px 0px 40px;}
+							
+#favoriteQuote {margin: -10px 0px 0px 40px;
+					padding: 0px 0px 0px 0px;}
+							
+#passion {padding: 40px 0px 0px 0px;
+				color:#DAA520;}
+
+#favoriteQuoteText {margin: 60px 0px 0px 15px;
+					font-size: 1.2em;
+					color: #595959;}
+							
+#passionText {padding: 40px 0px 0px 15px;
+				font-size: 1.2em;
+				color: #595959;}
+				
+#interests {text-align: left;
+			margin: 20px 0px 0px 40px;
+				color:white;}
+
+.rightFirstWhiteOnBlack {margin: -10px 0px 0px 0px;}
+.rightFirstWhiteOnBlack img {height: 20px;
+					width: 20px;}
+					
+.rightSecondWhiteOnBlack {margin: -45px 0px 0px 0px;}
+.rightSecondWhiteOnBlack img {height: 20px;
+					width: 20px;}
+
+.leftSecondWhiteOnBlack {margin: -45px 0px 0px 0px;}
+.leftSecondWhiteOnBlack img {height: 20px;
+					width: 20px;}
+					
+.rightBlackOnWhite {margin: -45px 0px 0px 0px;}
+.rightBlackOnWhite img {height: 20px;
+					width: 20px;}
+					
+#whyProgramming {text-align: left;
+				margin: -10px 0px 0px 40px;
+				color:#DAA520;}
+
+
+.hawaiianFlag {width: 400px;}
+
+
+						
+#footer {position:absolute;
+		height:200px;
+		width: 100%;
+		margin: 1300px 0px 0px 0px;}
+						

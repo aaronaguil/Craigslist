@@ -1,0 +1,76 @@
+@CHARSET "UTF-8";
+
+body {background-color: #EEEEEE;}
+
+#first-word {font-weight:bold;}
+
+p:nth-child(5) {font-style:italic;}
+
+p {text-indent: 50px;}
+
+#nflHeaderImage {height:350px;
+				width:100%;
+				margin: -10px -10px -10px -10px;}
+				
+#bannerAd {height:150px;
+				width:800px;
+				 display:block;
+    margin:auto;
+    margin-top: 25px;}
+				
+#footer {clear:both;
+		height:250px;
+				width:1230px;
+				margin: -10px -10px -20px -10px;}
+				
+#video {height:450px;
+				width:600px;
+				margin: 0px 0px 0px 70px;}
+			
+#article {float: left;
+			width:750px;
+			margin: 0px 20px 100px 0px;}
+			
+#rightbar {background-color: #CFCDCC;
+			float: left;
+			padding:10px 20px 20px 20px;
+			margin-top:50px;
+			border: 2px solid black;}
+			
+#belowTitle {color:gray;}
+
+#belowTitle2 {color:blue;}
+
+
+a {text-decoration:none}
+
+a:hover{color:orange;
+		font-style:italic;}
+
+img {height:20px;
+	width:40px;}
+	
+table {
+	font-family: verdana,arial,sans-serif;
+	font-size:11px;
+	color:#333333;
+	border-width: 1px;
+	border-color: #666666;
+	border-collapse: collapse;
+}
+table th {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #666666;
+	background-color: #dedede;
+}
+table td {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #666666;
+	background-color: #ffffff;
+}
+
+#td {text-align:right;}

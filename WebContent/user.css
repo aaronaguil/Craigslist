@@ -1,0 +1,90 @@
+@CHARSET "UTF-8";
+
+#sideBar {background: #fff5cc;
+			position: fixed;
+			margin-top: 2px;
+			margin-left: -10px;
+			height: 800px;
+			width: 305px;}
+			
+#topBar {background: #e5ffff;
+			position: fixed;
+			margin-top: -10px;
+			margin-left: -20px;
+			height: 50px;
+			width: 1300px;}
+			
+#topBarLine {background: black;
+			position: fixed;
+			margin-top: -10px;
+			margin-left: -20px;
+			height: 52px;
+			width: 1300px;}
+			
+#searchBar {background: #b580ff;
+			position: fixed;
+			margin-top: 42px;
+			margin-left: 281px;
+			height: 50px;
+			width: 1300px;}
+			
+#searchBarLine {background: black;
+			position: fixed;
+			margin-top: 42px;
+			margin-left: 281px;
+			height: 52px;
+			width: 1300px;}
+
+
+#line {background: black;
+			position: fixed;
+			margin-top: 40px;
+			margin-left: -10px;
+			height: 800px;
+			width: 297px;}
+			
+#sideBarLinks {color: black;
+				position: fixed;
+				font-style:BOLD;
+				font-size: 30px;
+				font-family:"Courier New", Courier, monospace;}
+				
+#sideBarForm {position: fixed;
+				margin-top: 50px;
+				margin-left: 35px;}
+				
+#lineBreak {position:fixed;
+			background: black;
+			margin-top: 262px;
+			margin-left: 25px;
+			height: 2px;
+			width: 220px;}
+			
+#lineBreak1 {position:fixed;
+			background: black;
+			margin-top: 352px;
+			margin-left: 25px;
+			height: 2px;
+			width: 220px;}
+			
+#lineBreak2 {position:fixed;
+			background: black;
+			margin-top: 442px;
+			margin-left: 25px;
+			height: 2px;
+			width: 220px;}
+			
+#posts {position:fixed;
+		margin-top: 70px;
+			margin-left: 320px;}
+			
+.tester {postion:fixed;
+			margin-top:100px;
+			margin-left:500px;}
+/* #test {postion:fixed;
+			margin-top:100px;
+			margin-left:500px;} */
+/* test {postion:fixed;
+			margin-left:-200px;} */
+			
+

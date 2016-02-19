@@ -1,0 +1,24 @@
+@CHARSET "UTF-8";
+
+body {background:#ffffe5;
+		overflow: auto;}
+
+#header {background: #fff5cc;
+			margin-top: -50px;
+			margin-left: -20px;
+			height: 150px;
+			width: 1300px;}
+
+#info {margin-top: 100px;
+			margin-left: 930px;}
+				
+#belowHeader {background: #e5ffff;
+				margin-left: -20px;
+				height: 50px;
+				width: 1300px;}
+				
+#belowHeaderLinks {margin-top: -30px;
+					margin-left: 530px;}
+					
+#login {margin-top: -200px;
+					margin-left: 730px;}

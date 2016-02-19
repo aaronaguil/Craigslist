@@ -1,0 +1,24 @@
+@CHARSET "UTF-8";
+
+.backgroundImage {margin: -20px 0px 0px -20px;}
+
+.backgroundImage img {height: 685px;
+					width: 1240px;
+					opacity: .2;}
+					
+.wrapper {background-color: black;
+					height: 685px;
+					width: 1240px;
+					margin: -20px 0px 0px -20px;}
+
+
+#entryPopup {position: absolute;
+			font-size: 4em;
+			color: white;
+			text-align: center;
+			top: 200px;
+			left:360px;}
+
+a {color: gold;
+	height: 100px;
+	width:200px;}

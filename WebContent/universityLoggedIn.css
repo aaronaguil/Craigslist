@@ -1,0 +1,17 @@
+@CHARSET "UTF-8";
+
+#topBar {background: #e5ffff;
+			margin-top: -10px;
+			margin-left: -20px;
+			height: 50px;
+			width: 1300px;}
+			
+#topBarLine {background: black;
+			margin-top: -10px;
+			margin-left: -20px;
+			height: 52px;
+			width: 1300px;}
+			
+.tester {postion:fixed;
+			margin-top:20px;
+			margin-left: 10px;}

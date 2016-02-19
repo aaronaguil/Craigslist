@@ -1,0 +1,175 @@
+@CHARSET "UTF-8";
+
+body {background-color: #353844;}
+
+#topSpace {height:400px;
+			width:100%;
+			padding: -100px 0px 0px 0px;}
+			
+#headerImage {height:100px;
+				margin:0px 0px 200px 200px;}
+			
+#topBarLogo img {height:50px;
+			width:140px;
+			float:left;}
+			
+#topBarLogo {margin: 10px 0px 0px 100px;}
+
+#topBarLinks a {color: #CAF3FF;
+			text-decoration: none;
+			letter-spacing:1px;
+			font-weight:bold;
+			font-size: 1em;
+			font-family: Arial, sans-serif;
+			margin: 0px 20px 0px 0px;}
+			
+#topBarLinks {margin: 35px 0px 0px 725px;}
+
+
+#firstArticle {height:790px;
+				width: 500px;
+				background-color: white;
+				margin: 20px 0px 0px 110px;
+				clear:both;
+				float:left;}
+
+#firstArticle img {height:100px;
+					width:100px;
+					float:left;
+					margin: 150px 0px 0px 50px;}
+
+.date {color: #999999;
+		float:right;
+		margin: 200px 50px 0px 0px;}
+
+.featuredStory {color: #666666;
+				float:right;
+				margin: 5px 50px 0px 0px;}
+
+hr {width: 80%;}
+				
+#topSpacehr {width: 100%;}
+
+.title {font-size:2em;
+		font-weight:bold;
+		color:black;
+		width:350px;
+		margin: 150px 50px 0px 75px;}
+		
+.content {color: #666666;
+		width:350px;
+		font-size:1.2em;
+		margin: 25px 50px 0px 75px;}
+		
+.paulCarr {height:10px;
+			width:10px;
+			}
+			
+#paulCarrImage {margin: 20px 0px 0px 175px;}
+
+#firstArticleImage {height:790px;
+					width: 500px;
+					float:left;
+					margin: 20px 0px 0px 0px}
+					
+#secondArticleImage {height:400px;
+					width: 503px;
+					clear:both;
+					float:left;
+					margin: 0px 0px 0px 107px;}
+					
+#secondArticle {height:400px;
+					width: 503px;
+					float:left;
+					background-color:white;}
+					
+#aboveTitle {color: #666666;
+				font-style: italic;
+				font-weight:bold;
+				margin: 25px 0px 15px 75px;}
+					
+.secondArticletitle {font-size:2em;
+		font-weight:bold;
+		color: #666666;
+		width:350px;
+		margin: 25px 50px 0px 75px;}
+		
+.secondArticlecontent {color: #999999;
+		width:350px;
+		font-size:1.2em;
+		margin: 25px 50px 0px 75px;}
+		
+#thirdArticleImage 	{height:400px;
+					width: 503px;
+					clear:both;
+					float:left;
+					margin: 0px 0px 0px 107px;}	
+					
+#thirdArticle {height:400px;
+					width: 503px;
+					float:left;}
+
+.thirdArticletitle {font-size:2em;
+		font-weight:bold;
+		color: white;
+		width:350px;
+		margin: 25px 50px 0px 75px;}
+					
+#thirdAboveTitle {font-style: italic;
+				font-weight:bold;
+				margin: 25px 0px 15px 75px;}
+				
+#fourthArticle {height:400px;
+				width: 500px;
+				background-color: white;
+				margin: 0px 0px 0px 110px;
+				float:left;
+				background-color:white;}
+				
+.fourthArticletitle {font-size:2em;
+		font-weight:bold;
+		color: black;
+		width:350px;
+		margin: 25px 50px 0px 75px;}
+					
+#fourthAboveTitle {font-style: italic;
+				font-weight:bold;
+				margin: 25px 0px 15px 75px;}
+				
+.fourthArticlecontent {color: #999999;
+		width:350px;
+		font-size:1.2em;
+		margin: 25px 50px 0px 75px;}
+				
+#fifthArticle {height:400px;
+					width: 503px;
+					float:left;
+					background-color:white;
+					margin-left:1px;}
+
+.fifthArticletitle {font-size:2em;
+		font-weight:bold;
+		color: black;
+		width:350px;
+		margin: 25px 50px 0px 75px;}
+					
+#fifthAboveTitle {font-style: italic;
+				font-weight:bold;
+				margin: 25px 0px 15px 75px;}
+				
+.fifthArticlecontent {color: #999999;
+		width:350px;
+		font-size:1.2em;
+		margin: 25px 50px 0px 75px;}
+		
+#footer {height: 400px;
+		clear:both;
+		margin-top:100px;}
+		
+#footerImage {height:100px;
+				margin:100px 0px 0px 200px;}
+						
+					
+					
+					
+					
